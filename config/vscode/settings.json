@@ -19,6 +19,7 @@
     "ruff.lint.args": [
         "--config=config/ruff.toml"
     ],
+    "ruff.configurationPreference": "filesystemFirst",
     "yaml.schemas": {
         "https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml"
     },
